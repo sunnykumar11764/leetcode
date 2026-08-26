@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunnykumar11764/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sunnykumar11764/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sunnykumar11764/leetcode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
