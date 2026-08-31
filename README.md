@@ -12,6 +12,7 @@
 | [0118-pascals-triangle](https://github.com/sunnykumar11764/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunnykumar11764/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sunnykumar11764/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -85,6 +87,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
