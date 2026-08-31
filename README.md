@@ -24,6 +24,7 @@
 | [0015-3sum](https://github.com/sunnykumar11764/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sunnykumar11764/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -76,6 +78,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Counting
