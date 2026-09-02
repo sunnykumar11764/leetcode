@@ -85,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sunnykumar11764/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sunnykumar11764/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Quicksort
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sunnykumar11764/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
