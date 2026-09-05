@@ -2,18 +2,19 @@ class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
 
-        int total = 0;
+        int sum = 0;
 
-        // Sab numbers ka total
+        // Sab numbers ka sum 
         for(int x : nums) {
-            total += x;
+            sum += x;
         }
+        // sum = 28
 
         int left = 0;
 
         for(int i = 0; i < nums.size(); i++) {
 
-            int right = total - left - nums[i];
+            int right = sum - left - nums[i];
 
             if(left == right) {
                 return i;
