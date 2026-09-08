@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunnykumar11764/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -64,6 +65,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sunnykumar11764/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0525-contiguous-array](https://github.com/sunnykumar11764/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnykumar11764/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sunnykumar11764/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
