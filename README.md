@@ -26,6 +26,7 @@
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -70,12 +71,14 @@
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunnykumar11764/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sunnykumar11764/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
@@ -139,6 +143,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sunnykumar11764/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sunnykumar11764/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
