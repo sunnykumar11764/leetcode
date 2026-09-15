@@ -42,6 +42,7 @@
 | [0018-4sum](https://github.com/sunnykumar11764/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sunnykumar11764/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sunnykumar11764/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
@@ -73,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar11764/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sunnykumar11764/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sunnykumar11764/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunnykumar11764/leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
