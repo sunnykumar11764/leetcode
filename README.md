@@ -34,6 +34,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/sunnykumar11764/leetcode/tree/master/1652-defuse-the-bomb) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Timsort
 |  |
 | ------- |
