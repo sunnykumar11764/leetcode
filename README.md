@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/sunnykumar11764/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sunnykumar11764/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/sunnykumar11764/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sunnykumar11764/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sunnykumar11764/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@
 | [0015-3sum](https://github.com/sunnykumar11764/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sunnykumar11764/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sunnykumar11764/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sunnykumar11764/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sunnykumar11764/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
@@ -73,6 +75,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar11764/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sunnykumar11764/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sunnykumar11764/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar11764/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sunnykumar11764/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sunnykumar11764/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0387-first-unique-character-in-a-string) |
