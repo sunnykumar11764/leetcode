@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sunnykumar11764/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sunnykumar11764/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnykumar11764/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@
 | [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sunnykumar11764/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sunnykumar11764/leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -89,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunnykumar11764/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -115,6 +119,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
