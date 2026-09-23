@@ -39,6 +39,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/sunnykumar11764/leetcode/tree/master/1652-defuse-the-bomb) |
+| [2364-count-number-of-bad-pairs](https://github.com/sunnykumar11764/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/sunnykumar11764/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Math
 |  |
@@ -113,6 +115,7 @@
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/sunnykumar11764/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sunnykumar11764/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnykumar11764/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2364-count-number-of-bad-pairs](https://github.com/sunnykumar11764/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
