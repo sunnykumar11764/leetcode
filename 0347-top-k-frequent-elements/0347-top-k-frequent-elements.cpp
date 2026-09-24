@@ -5,26 +5,21 @@ public:
         unordered_map<int, int> mp;
 
         // Frequency count
-        for(int el : nums) {
-            mp[el]++;
+        for(int x : nums) {
+            mp[x]++;
         }
 
-        vector<vector<int>> bucket(nums.size() + 1);
+        priority_queue<pair<int,int>> pq;
 
         for(auto x : mp) {
-            bucket[x.second].push_back(x.first);
+            pq.push({x.second, x.first});
         }
 
         vector<int> ans;
 
-        for(int i = nums.size(); i >= 1 && ans.size() < k; i--) {
-
-            for(int el : bucket[i]) {
-                ans.push_back(el);
-
-                if(ans.size() == k)
-                    break;
-            }
+        while(k--) {
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
 
         return ans;
