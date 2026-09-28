@@ -31,6 +31,7 @@
 | [0525-contiguous-array](https://github.com/sunnykumar11764/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnykumar11764/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sunnykumar11764/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sunnykumar11764/leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +129,7 @@
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/sunnykumar11764/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
