@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sunnykumar11764/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sunnykumar11764/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sunnykumar11764/leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/sunnykumar11764/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar11764/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/sunnykumar11764/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnykumar11764/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -132,6 +133,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sunnykumar11764/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sunnykumar11764/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
