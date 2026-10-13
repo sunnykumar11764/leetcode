@@ -45,6 +45,7 @@
 | [1109-corporate-flight-bookings](https://github.com/sunnykumar11764/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sunnykumar11764/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnykumar11764/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunnykumar11764/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/sunnykumar11764/leetcode/tree/master/1652-defuse-the-bomb) |
 | [2364-count-number-of-bad-pairs](https://github.com/sunnykumar11764/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sunnykumar11764/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -142,6 +143,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnykumar11764/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sunnykumar11764/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunnykumar11764/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunnykumar11764/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
