@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/sunnykumar11764/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sunnykumar11764/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sunnykumar11764/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sunnykumar11764/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sunnykumar11764/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@
 | [0075-sort-colors](https://github.com/sunnykumar11764/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar11764/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/sunnykumar11764/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sunnykumar11764/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -139,6 +141,7 @@
 | [0035-search-insert-position](https://github.com/sunnykumar11764/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sunnykumar11764/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnykumar11764/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnykumar11764/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/sunnykumar11764/leetcode/tree/master/0441-arranging-coins) |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sunnykumar11764/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sunnykumar11764/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +236,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sunnykumar11764/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/sunnykumar11764/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Greedy
 |  |
@@ -247,6 +252,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sunnykumar11764/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/sunnykumar11764/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
