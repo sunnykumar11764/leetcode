@@ -168,6 +168,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar11764/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sunnykumar11764/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sunnykumar11764/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sunnykumar11764/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sunnykumar11764/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sunnykumar11764/leetcode/tree/master/0242-valid-anagram) |
@@ -282,4 +283,12 @@
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sunnykumar11764/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sunnykumar11764/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sunnykumar11764/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
